@@ -5,3 +5,4 @@
 
 ## Tutorials
 [https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/](https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/)
+[https://satijalab.org/seurat/articles/pbmc3k_tutorial](https://satijalab.org/seurat/articles/pbmc3k_tutorial)
