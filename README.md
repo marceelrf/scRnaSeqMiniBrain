@@ -17,3 +17,4 @@ This GitHub repository houses scripts for the re-analysis of data presented in t
 Tetrahydrobiopterin.  
 ![https://www.genome.jp/Fig/compound/C00272.gif](https://www.genome.jp/Fig/compound/C00272.gif)
 
+https://www.genome.jp/dbget-bin/www_bget?cpd:C00272
