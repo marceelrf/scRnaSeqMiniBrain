@@ -18,3 +18,5 @@ Tetrahydrobiopterin.
 ![https://www.genome.jp/Fig/compound/C00272.gif](https://www.genome.jp/Fig/compound/C00272.gif)
 
 https://www.genome.jp/dbget-bin/www_bget?cpd:C00272
+
+extrair genes de vias relacionadas
